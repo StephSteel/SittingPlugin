@@ -18,7 +18,7 @@ To use the Sitting Plugin, follow these steps:
 
 ## Commands and Permissions
 
-- `/sit` - Allows players to sit on blocks. (Permission: `sit`)
+- `/sit` - Allows players to sit on blocks.
 
 ## Configuration
 
