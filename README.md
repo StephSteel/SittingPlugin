@@ -16,7 +16,7 @@ To use the Sitting Plugin, follow these steps:
 3. Start or restart your server.
 4. Players can now sit on  blocks by executing the `/sit` command.
 
-## Commands and Permissions
+## Commands
 
 - `/sit` - Allows players to sit on blocks.
 
