@@ -11,7 +11,7 @@ The Sitting Plugin is a Minecraft plugin that allows players to sit on blocks wi
 
 To use the Sitting Plugin, follow these steps:
 
-1. Download the plugin JAR file from the [releases](link-to-releases) section.
+1. Download the plugin JAR file from the [releases](https://github.com/StephSteel/SittingPlugin/releases/tag/sitting) section.
 2. Place the JAR file in the `plugins` folder of your Spigot server.
 3. Start or restart your server.
 4. Players can now sit on  blocks by executing the `/sit` command.
