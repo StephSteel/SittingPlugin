@@ -1,0 +1,13 @@
+name: SittingPlugin
+version: 1.0
+main: dev.steph.sittingplugin.SittingPlugin
+api-version: 1.20
+authors:
+  - Steph Steel
+description: This plugin allows you to sit on blocks
+
+commands:
+  sit:
+    description: Sits down
+    usage: /sit
+    permission: sit
