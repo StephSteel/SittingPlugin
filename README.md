@@ -26,7 +26,7 @@ The Sitting Plugin does not require any additional configuration. It is ready to
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please create an issue in the [issue tracker](link-to-issue-tracker).
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please create an [issue](https://github.com/StephSteel/SittingPlugin/issues).
 
 If you would like to contribute code, you can fork the repository, make your changes, and submit a pull request.
 
@@ -36,5 +36,5 @@ This plugin is released under the [MIT License](https://github.com/StephSteel/Si
 
 ## Credits
 
-The Sitting Plugin is developed and maintained by [Steph Steel](https://github.com/StephSteel). If you have any questions or need assistance, feel free to reach out.
+The Sitting Plugin is developed and maintained by [Steph Steel](https://github.com/StephSteel).
 
