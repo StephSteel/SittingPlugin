@@ -32,7 +32,7 @@ If you would like to contribute code, you can fork the repository, make your cha
 
 ## License
 
-This plugin is released under the [MIT License](https://github.com/StephSteel/SittingPlugin/blob/main/LICENSE). You are free to modify and distribute the plugin under the terms of this license.
+This plugin is released under the **MIT License**. You are free to modify and distribute the plugin under the terms of this license.
 
 ## Credits
 
